@@ -26,7 +26,7 @@
 <a href="https://codeforces.com/profile/shaktawatpritam2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shaktawatpritam2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaktawatpritam2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaktawatpritam2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shaktawatpritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaktawatpritam" height="30" width="40" /></a>
-<a href="https://discord.gg/#7861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7861" height="30" width="40" /></a>
+<a href="https://discord.gg/7861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7861" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,3 +37,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaktawatpritam2002&show_icons=true&locale=en" alt="shaktawatpritam2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaktawatpritam2002&" alt="shaktawatpritam2002" /></p>
+
+<br/>
+
+<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=TusharKesarwani&theme=xcode" alt="Contribution Graph" align="center" />
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+<br/>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
