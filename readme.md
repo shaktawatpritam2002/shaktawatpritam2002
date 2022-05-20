@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shaktawatpritam@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/mHLM9](shorturl.at/mHLM9)
+- 📄 Know about my experiences [Resume-Pritam](shorturl.at/mHLM9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
