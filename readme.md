@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Singh</h1>
-<h3 align="center">Freshman at JUET, Guna</h3>
+<h2 align="center">Freshman at JUET, Guna</h2>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaktawatpritam2002?tab=repositories](https://github.com/shaktawatpritam2002?tab=repositories)
 
@@ -10,14 +10,13 @@
 - 📄 Know about my experiences [Resume-Pritam](shorturl.at/mHLM9)
 
 - 😄 Pronouns: He/His
-
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaktawatpritam2002&label=Profile%20views&color=0e75b6&style=flat" alt="shaktawatpritam2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaktawatpritam2002" alt="shaktawatpritam2002" /></a> </p>
-
 
 <h2 align="center">Connect with me:</h2>
+<br>
 <p align="center">
 <a href="https://twitter.com/shaktawatpritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaktawatpritam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaktawatpritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaktawatpritam" height="30" width="40" /></a>
@@ -33,24 +32,19 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<br><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaktawatpritam2002" alt="shaktawatpritam2002" /></a> </p>
+
+<br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaktawatpritam2002&show_icons=true&locale=en&layout=compact" alt="shaktawatpritam2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaktawatpritam2002&show_icons=true&locale=en" alt="shaktawatpritam2002" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shaktawatpritam2002&" alt="shaktawatpritam2002" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaktawatpritam2002&" alt="shaktawatpritam2002" /></p>
 
-<br/>
+<br/><br/>
 
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=shaktawatpritam&theme=xcode" alt="Contribution Graph" align="center" />
-
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
-<br/>
-
----
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
