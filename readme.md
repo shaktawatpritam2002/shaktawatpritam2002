@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shaktawatpritam@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WesM1f1nkm2yWOXw-9lBM33WLpOs4pCs9qiuXXzXkjM/edit?usp=sharing](https://docs.google.com/document/d/1WesM1f1nkm2yWOXw-9lBM33WLpOs4pCs9qiuXXzXkjM/edit?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/mHLM9](shorturl.at/mHLM9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 <a href="https://codeforces.com/profile/shaktawatpritam2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shaktawatpritam2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaktawatpritam2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaktawatpritam2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shaktawatpritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaktawatpritam" height="30" width="40" /></a>
-<a href="https://discord.gg/7861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7861" height="30" width="40" /></a>
+<a href="https://discord.gg/#7861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7861" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,7 +42,7 @@
 
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=TusharKesarwani&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=shaktawatpritam&theme=xcode" alt="Contribution Graph" align="center" />
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
