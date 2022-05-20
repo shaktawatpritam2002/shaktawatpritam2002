@@ -27,7 +27,6 @@
 <a href="https://codeforces.com/profile/shaktawatpritam2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shaktawatpritam2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaktawatpritam2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaktawatpritam2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shaktawatpritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaktawatpritam" height="30" width="40" /></a>
-<a href="https://discord.gg/#7861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7861" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -46,5 +45,5 @@
 
 <br/><br/>
 
-
+<br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
