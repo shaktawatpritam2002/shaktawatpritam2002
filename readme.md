@@ -42,7 +42,7 @@
 <br><br>
 
 <h2 align="center" >Github Profile Trophy</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=shaktawatpritam2002&theme=monokai&row=1&no-frame=true&no-bg=true/" align="center">
+  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shaktawatpritam2002&theme=monokai&row=1&no-frame=true&no-bg=true/" alt="shaktawatpritam2002" ></p>
 
 <br/><br/>
 
