@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" />
+  <img src="images/THINK.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pritam Singh</h1>
@@ -43,7 +43,7 @@
 
 <h2 align="center" >Github Profile Trophy</h2>
   <br/>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=shaktawatpritam2002&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaktawatpritam2002&theme=monokai&row=1&no-frame=true&no-bg=true/" align="center"/>
 
 <br/><br/>
 
