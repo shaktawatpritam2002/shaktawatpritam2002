@@ -38,8 +38,9 @@
 
 <br/><br/>
 
-![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktawatpritam&show_icons=true&theme=radical)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaktawatpritam2002&show_icons=true&locale=en" alt="shaktawatpritam2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaktawatpritam2002&show_icons=true&locale=en&layout=compact" alt="shaktawatpritam2002" /></p>
+
+![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktawatpritam2002&show_icons=true&theme=radical)
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaktawatpritam2002&" alt="shaktawatpritam2002" /></p>
 
