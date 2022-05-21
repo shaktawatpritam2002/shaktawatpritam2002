@@ -50,6 +50,6 @@
 
 <br/>
 
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+<h2 align="center" >Contribution Graph</h2>
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=shaktawatpritam2002&theme=xcode" alt="Contribution Graph" align="center" />
