@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pritam Singh</h1>
 <h2 align="center">Freshman at JUET, Guna</h2>
 
+[![Twitter: Pritam](https://img.shields.io/twitter/follow/shaktawatpritam?style=social)](https://twitter.com/shaktawatpritam)
+[![Linkedin: Pritam](https://img.shields.io/badge/-shaktawatpritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaktawatpritam/)](https://www.linkedin.com/in/shaktawatpritam/)
+[![GitHub: Pritam](https://img.shields.io/github/followers/shaktawatpritam2002?label=follow&style=social)](https://github.com/shaktawatpritam2002/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/shaktawatpritam2002?tab=repositories](https://github.com/shaktawatpritam2002?tab=repositories)
 
 - 💬 Ask me about **C,C++,HTML,CSS**
@@ -38,10 +42,14 @@
 
 <br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaktawatpritam2002&show_icons=true&locale=en&layout=compact" alt="shaktawatpritam2002" /></p>
-
-![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktawatpritam2002&show_icons=true&theme=radical)
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaktawatpritam2002&" alt="shaktawatpritam2002" /></p>
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaktawatpritam2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=shaktawatpritam2002&theme=nightowl&hide_border=true&fire=DD2727" alt="shaktawatpritam2002" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shaktawatpritam2002&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="shaktawatpritam2002" />
+</p>
 
 <br/>
+
+<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=shaktawatpritam2002&theme=xcode" alt="Contribution Graph" align="center" />
