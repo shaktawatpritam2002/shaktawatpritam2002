@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/THINK.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Pritam Singh</h1>
 <h2 align="center">Freshman at JUET, Guna</h2>
 
