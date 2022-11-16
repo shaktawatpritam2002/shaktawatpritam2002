@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pritam Singh</h1>
-<h2 align="center">Freshman at JUET, Guna</h2>
+<h2 align="center">Sophomore at JUET, Guna</h2>
 
 [![Twitter: Pritam](https://img.shields.io/twitter/follow/shaktawatpritam?style=social)](https://twitter.com/shaktawatpritam)
 [![Linkedin: Pritam](https://img.shields.io/badge/-shaktawatpritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaktawatpritam/)](https://www.linkedin.com/in/shaktawatpritam/)
