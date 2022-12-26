@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/THINK.png" />
+  <img src="THINK.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pritam Singh</h1>
