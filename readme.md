@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pritam Singh</h1>
-<h2 align="center">Freshman at JUET, Guna</h2>
+<h2 align="center">Sophomore at JUET, Guna</h2>
 
 
 ## 🌐 Socials:
