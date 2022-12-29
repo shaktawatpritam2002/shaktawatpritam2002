@@ -22,7 +22,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shaktawatpritam2002&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaktawatpritam2002&label=Profile%20views&color=0e75b6&style=flat" alt="shaktawatpritam2002" /> </p>
 
