@@ -19,8 +19,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
----
 [![](https://visitcount.itsvg.in/api?id=shaktawatpritam2002&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
